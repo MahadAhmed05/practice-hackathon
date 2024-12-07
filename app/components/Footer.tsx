@@ -240,16 +240,16 @@ function Footer() {
             <h3 className="text-lg font-bold mb-4">Download App</h3>
             <p className="text-sm mb-4">Save $3 with App New User Only</p>
             <div className="flex flex-wrap gap-4">
-              <img
+              {/* <img
                 src="/google-play.png"
                 alt="Google Play"
                 className="w-32 h-auto"
-              />
-              <img
+              /> */}
+              {/* <img
                 src="/app-store.png"
                 alt="App Store"
                 className="w-32 h-auto"
-              />
+              /> */}
             </div>
             <p className="text-sm text-gray-400 mt-6">Follow Us:</p>
             <div className="flex items-center gap-4 mt-2">

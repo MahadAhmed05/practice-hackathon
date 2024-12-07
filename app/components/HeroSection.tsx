@@ -8,18 +8,18 @@ function HeroSection() {
       <div className="w-1/4 border-r pr-4">
         <ul className="space-y-4 text-sm font-medium">
           <li className="flex justify-between items-center">
-            <span>Woman's Fashion</span>
+            <span>Womans Fashion</span>
             <span>&#62;</span> {/* Right Arrow */}
           </li>
           <li className="flex justify-between items-center">
-            <span>Men's Fashion</span>
+            <span>Mens Fashion</span>
             <span>&#62;</span>
           </li>
           <li>Electronics</li>
           <li>Home & Lifestyle</li>
           <li>Medicine</li>
           <li>Sports & Outdoor</li>
-          <li>Baby's & Toys</li>
+          <li>Babys & Toys</li>
           <li>Groceries & Pets</li>
           <li>Health & Beauty</li>
         </ul>
